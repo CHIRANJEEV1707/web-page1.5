@@ -1,0 +1,56 @@
+*{
+    border-radius: 25px;
+    border: 3px solid;
+    border-color: black;
+    background-color: peachpuff;
+    
+}
+.header{
+    justify-content: center;
+    align-items: center;
+    background-color: peachpuf;
+    color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
+}
+.paragraph{
+    background-color: peachpuff;
+    color:black;
+}
+.item{
+    position: static;
+    padding: 5px;
+    border-color: salmon;
+    background-color: peachpuff;
+    border-style: dotted dashed solid double;
+}
+.game1{
+    justify-content: space-evenly;
+    align-items: space-evenly;
+}
+.about{
+    background-color: peachpuff;
+}
+.social{
+    background-color: peachpuff;
+}
+.H1{
+    text-shadow: 3px,3px;
+}
+a:link{
+    color: blue;
+    background-color: moccasin;
+}
+a:visited{
+    color: grey;
+    background-color: palegreen;
+}
+a:hover{
+    color: red;
+    opacity: 0.5;
+    text-decoration:underline ;
+}
+a:active{
+    color: yellow;
+}
